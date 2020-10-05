@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/posts/24218/</loc>
+    
+    <lastmod>2020-10-05T15:20:46.853Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/code/index.html</loc>
+    
+    <lastmod>2020-10-05T15:00:25.579Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2020-10-05T14:46:11.936Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2020-10-05T14:31:39.167Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/album/index.html</loc>
+    
+    <lastmod>2020-10-04T16:30:32.352Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/guitar/index.html</loc>
+    
+    <lastmod>2020-10-04T05:25:08.706Z</lastmod>
+    
+  </url>
+  
+</urlset>
